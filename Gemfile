@@ -13,7 +13,7 @@ gem 'puma', '~> 3.11'
 gem 'sass-rails', '~> 5.0'
 
 # This module allows Ruby programs to interface with the SQLite3 database engine (http://www.sqlite.org). You must have the SQLite engine installed in order to build this module. Note that this module is only compatible with SQLite 3.6.16 or newer.
-gem 'sqlite3', '~> 1.4', '>= 1.4.1'
+# gem 'sqlite3', '~> 1.4', '>= 1.4.1'
 
 
 
